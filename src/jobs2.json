@@ -1,0 +1,86 @@
+[
+     {
+          "id": 1,
+          "title": "Software Engineer",
+          "type": "Full-time",
+          "description": "Develop and maintain web applications using modern frameworks.",
+          "location": "New York, NY",
+          "salary": 90000,
+          "company": {
+               "name": "Tech Innovations Inc.",
+               "description": "A leading company in tech solutions and software development.",
+               "contactEmail": "hr@techinnovations.com",
+               "contactPhone": "+1-555-123-4567"
+          }
+     },
+     {
+          "id": 2,
+          "title": "Product Manager",
+          "type": "Full-time",
+          "description": "Lead product development from ideation to launch.",
+          "location": "San Francisco, CA",
+          "salary": 110000,
+          "company": {
+               "name": "Creative Solutions LLC",
+               "description": "A dynamic company specializing in innovative product design.",
+               "contactEmail": "jobs@creativesolutions.com",
+               "contactPhone": "+1-555-987-6543"
+          }
+     },
+     {
+          "id": 3,
+          "title": "Data Analyst",
+          "type": "Part-time",
+          "description": "Analyze data sets to derive actionable insights.",
+          "location": "Remote",
+          "salary": 45000,
+          "company": {
+               "name": "Data Insights Corp.",
+               "description": "A company focused on data-driven decision making.",
+               "contactEmail": "info@datainsights.com",
+               "contactPhone": "+1-555-234-5678"
+          }
+     },
+     {
+          "id": 4,
+          "title": "UX Designer",
+          "type": "Contract",
+          "description": "Design user-friendly interfaces for web and mobile applications.",
+          "location": "Austin, TX",
+          "salary": 70000,
+          "company": {
+               "name": "Design Masters Co.",
+               "description": "Experts in user experience and interface design.",
+               "contactEmail": "careers@designmasters.com",
+               "contactPhone": "+1-555-876-5432"
+          }
+     },
+     {
+          "id": 5,
+          "title": ".NET Developer",
+          "type": "Full-time",
+          "description": ".NET development for enterprise-level applications.",
+          "location": "Chicago, IL",
+          "salary": 95000,
+          "company": {
+               "name": ".NET Solutions Group",
+               "description": ".NET experts providing solutions for various industries.",
+               "contactEmail": ".netjobs@solutionsgroup.com",
+               "contactPhone": "+1-555-345-6789"
+          }
+     },
+     {
+          "id": 6,
+          "title": "Marketing Specialist",
+          "type": "Internship",
+          "description": "Assist in developing marketing strategies and campaigns.",
+          "location": "Los Angeles, CA",
+          "salary": 30000,
+          "company": {
+               "name": "Marketing Gurus",
+               "description": "A creative agency focused on innovative marketing solutions.",
+               "contactEmail": "interns@marketinggurus.com",
+               "contactPhone": "+1-555-654-3210"
+          }
+     }
+]
